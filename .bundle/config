@@ -1,2 +1,3 @@
 ---
 BUNDLE_PATH: "jekyll/bundle"
+BUNDLE_BIN: "bin"
